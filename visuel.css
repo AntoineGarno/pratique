@@ -1,0 +1,29 @@
+.tete {
+	background-color: aqua;
+	text-align: center;
+}
+table {
+	border: rgb(184, 179, 187);
+	border-width: 10px;
+	border-style: solid;
+	font-size: large;
+	font-weight: bold;
+	font-style: italic, oblique;
+}
+
+body {
+	background-color: rgb(211, 235, 214);
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+.gab {
+	background-color: burlywood;
+	color: rgb(255, 255, 255);
+}
+.sim {
+	background-color: cornflowerblue;
+	color: rgb(255, 255, 255);
+}
+.tony {
+	background-color: darkgreen;
+	color: rgb(255, 255, 255);
+}
